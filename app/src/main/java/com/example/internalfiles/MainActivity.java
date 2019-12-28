@@ -18,6 +18,11 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 
+/**
+ * @author Hadar Malul
+ * @since 28.12.19
+ */
+
 public class MainActivity extends AppCompatActivity {
 
     TextView tv;
